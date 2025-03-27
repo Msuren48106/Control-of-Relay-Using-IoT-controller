@@ -1,3 +1,6 @@
+###NAME: M.SUREN.
+###REG NO: 212223230222
+
 # Control-of-Relay-Using-IoT-controller
 
 ##  AIM:
@@ -39,9 +42,21 @@ In this Arduino  Relay Control Circuit we have used Arduino to control the relay
 
 ## PROGRAM:
 
+![Screenshot 2025-03-27 135313](https://github.com/user-attachments/assets/d5f23e37-b52c-4768-ba3b-c367ea8d657f)
+
 ## CIRCUIT DIAGRAM:
 
+![Screenshot 2025-03-27 140319](https://github.com/user-attachments/assets/bfa56d80-f872-4b22-a74e-09c9ef6f678b)
+
 ## OUTPUT:
+
+## BULB OFF:
+
+![Screenshot 2025-03-27 135529](https://github.com/user-attachments/assets/d553e563-9382-4474-b0d0-4f27bfc976cf)
+
+## BULB ON:
+
+![Screenshot 2025-03-27 135548](https://github.com/user-attachments/assets/21b3cd72-d628-42a6-b3e6-98a816ab18a7)
 
 ## RESULT:
 
