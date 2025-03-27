@@ -1,5 +1,5 @@
-###NAME: M.SUREN.
-###REG NO: 212223230222
+### NAME: M.SUREN.
+### REG NO: 212223230222
 
 # Control-of-Relay-Using-IoT-controller
 
